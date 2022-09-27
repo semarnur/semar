@@ -1,0 +1,2 @@
+# semar
+tugas 2
